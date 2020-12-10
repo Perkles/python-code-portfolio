@@ -1,6 +1,6 @@
 # :wave: Bem vindo ao meu portfólio de código Python
 
-[en](https://github.com/Perkles/python-code-portfolio/)
+[:us:](https://github.com/Perkles/python-code-portfolio/)
 
 É difícil ter uma noção clara do quanto um desenvolvedor sabe sobre uma tecnologia. Com isso em mente e visando facilitar o trabalho de recrutadores, criei esse repositório. 
 
