@@ -8,9 +8,11 @@ Here you'll find all the Python projects I've created and **how** each one contr
 
 This repository is for technical recruiters. You can find broader information about me, including open source contributions, personal projects, and more on my [website](https://perkles.github.io/).
 
-## Web Development 
+## Web Development
 
-#### [A personal blog generator](https://github.com/Perkles/a-django-blog) [[Live]](https://perkles-a-django-blog.herokuapp.com/)
+#### [A personal blog generator](https://github.com/Perkles/a-django-blog)
+
+Check out the live project [[here].](https://perkles-a-django-blog.herokuapp.com/)
 
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786663698-9e29e43655a028838e2c667f)
 
