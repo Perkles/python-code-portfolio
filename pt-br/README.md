@@ -1,6 +1,6 @@
 # :wave: Bem vindo ao meu portfólio de código Python
 
-[:us:](https://github.com/Perkles/python-code-portfolio/)
+[:en:](https://github.com/Perkles/python-code-portfolio/)
 
 É difícil ter uma noção clara do quanto um desenvolvedor sabe sobre uma tecnologia. Com isso em mente e visando facilitar o trabalho de recrutadores, criei esse repositório.
 
@@ -11,6 +11,8 @@ Esse repositório é designado a recrutadores técnicos. Você pode achar inform
 ## Web Development
 
 #### [Gerador de blog pessoal](https://github.com/Perkles/a-django-blog) [[Live]](https://perkles-a-django-blog.herokuapp.com/)
+
+Veja o projeto rodando [[aqui].](https://perkles-a-django-blog.herokuapp.com/)
 
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786663698-9e29e43655a028838e2c667f)
 
